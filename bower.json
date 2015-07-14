@@ -1,0 +1,23 @@
+{
+  "name": "ionic-press-again-to-exit",
+  "version": "1.0.0",
+  "authors": [
+    "ewnd9 <ewndnine@gmail.com>"
+  ],
+  "description": "ionic press again to exit",
+  "main": "index.js",
+  "keywords": [
+    "ionic"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "ionic": "1.0.1"
+  }
+}
